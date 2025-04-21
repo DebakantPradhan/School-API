@@ -73,12 +73,12 @@ This README provides step-by-step instructions on how to set up and use the Scho
    ```properties
    DB_HOST='localhost'
    DB_USER='root'
-   DB_PASSWORD='Dhoni@1'
+   DB_PASSWORD='password'
    DB_NAME='school_management'
    PORT=3000
    ```
 
-   **Note:** Replace `Dhoni@1` with your actual MySQL password if different.
+   **Note:** Replace `password` with your actual MySQL password if different.
 
 ## Running the Application
 
